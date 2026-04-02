@@ -11,6 +11,7 @@
 A curated list of the best tools for YouTube creators in 2026.
 
 ## Video Generation
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels. Perfect for streamers, podcasters, and YouTubers.
 - [ViralVelocity](https://viralvelocity.app) - Veo 3.1 Fast for 8-second videos
 - [Runway](https://runway.ai) - Gen-4 Turbo ($95/mo)
 - [Pika Labs](https://pika.art) - Image-to-video (Free/$10-76/mo)
