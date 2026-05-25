@@ -32,6 +32,7 @@ A curated list of the best tools for YouTube creators in 2026.
 - [ViralVelocity](https://viralvelocity.app) - Title/description/tags optimizer
 - [TubeBuddy](https://tubebuddy.com) - Keyword research
 - [vidIQ](https://vidiq.com) - Competitor tracking
+- [YT SEO Architect](https://yt-seo-architect.vercel.app) - AI YouTube SEO toolkit with 17 free tools: keyword research, tag generator, metadata audit, thumbnail analyzer, and Phronesis AI growth coach.
 - [Morningfame](https://morningfame.com) - Analytics
 
 ## Channel Analysis & Competitor Intel
