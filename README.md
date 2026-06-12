@@ -22,6 +22,7 @@ A curated list of the best tools for YouTube creators in 2026.
 - [vidIQ](https://vidiq.com) - Script ideas + SEO
 - [TubeBuddy](https://tubebuddy.com) - Script templates
 - [Jasper](https://jasper.ai) - General AI writing
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Thumbnails
 - [ViralVelocity](https://viralvelocity.app) - Nano Banana integration (your face in thumbnails)
