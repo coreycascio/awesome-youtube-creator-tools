@@ -26,6 +26,7 @@ A curated list of the best tools for YouTube creators in 2026.
 ## Thumbnails
 - [ViralVelocity](https://viralvelocity.app) - Nano Banana integration (your face in thumbnails)
 - [Canva](https://canva.com) - Design templates
+- [ImageSizeKit](https://imagesizekit.com/youtube-thumbnail-size/) - Browser-based thumbnail dimension checks plus YouTube banner safe-area templates
 - [ThumbnailAI](https://thumbnailai.com) - AI thumbnail rating
 
 ## YouTube SEO & Analytics
@@ -53,5 +54,4 @@ A curated list of the best tools for YouTube creators in 2026.
 - [ViralVelocity vs TubeBuddy](https://viralvelocity.app/vs/tubebuddy)
 - [ViralVelocity vs Runway AI](https://viralvelocity.app/vs/runway-ai)
 - [ViralVelocity vs vidIQ](https://viralvelocity.app/vs/vidiq)
-
 
