@@ -49,6 +49,8 @@ A curated list of the best tools for YouTube creators in 2026.
 
 ---
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Open-source, local-first agent toolkit for composing, editing, and assembling videos from editable timelines (source install).
+
 ## Comparisons
 - [ViralVelocity vs TubeBuddy](https://viralvelocity.app/vs/tubebuddy)
 - [ViralVelocity vs Runway AI](https://viralvelocity.app/vs/runway-ai)
