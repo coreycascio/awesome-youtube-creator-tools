@@ -42,7 +42,8 @@ A curated list of the best tools for YouTube creators in 2026.
 ## Upload & Scheduling
 - [ViralVelocity](https://viralvelocity.app) - Direct YouTube upload
 - [YouTube Studio](https://studio.youtube.com) - Native scheduler
-- [SocialPilot](https://socialpilot.co) - Multi-platform scheduling
+- [SocialPilot](https://socialpilot.co)
+- [Social Roster](https://socialroster.dev) - Schedule YouTube Shorts alongside TikTok, Instagram Reels, and Facebook videos from one calendar, with bulk upload. - Multi-platform scheduling
 
 ## All-in-One Platforms
 - [ViralVelocity](https://viralvelocity.app) - Scripts + Videos + Thumbnails + SEO + Analysis ($24/mo)
