@@ -11,6 +11,7 @@
 A curated list of the best tools for YouTube creators in 2026.
 
 ## Video Generation
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [ViralVelocity](https://viralvelocity.app) - Veo 3.1 Fast for 8-second videos
 - [Runway](https://runway.ai) - Gen-4 Turbo ($95/mo)
 - [Pika Labs](https://pika.art) - Image-to-video (Free/$10-76/mo)
