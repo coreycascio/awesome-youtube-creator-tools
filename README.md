@@ -16,6 +16,7 @@ A curated list of the best tools for YouTube creators in 2026.
 - [Pika Labs](https://pika.art) - Image-to-video (Free/$10-76/mo)
 - [Kling AI](https://klingai.com) - 4K video generation
 - [Luma Dream Machine](https://lumalabs.ai) - Fast AI video
+- [Cyanvid](https://cyanvid.com/?utm_source=coreycascio-awesome-youtube-creator-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images; credit quotes before generate
 
 ## YouTube Scripts & Writing
 - [ViralVelocity](https://viralvelocity.app) - AI scripts trained on 10M+ viral videos
